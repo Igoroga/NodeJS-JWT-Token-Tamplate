@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "jsx": "react-jsx",
+      "esModuleInterop": true,
+      "allowSyntheticDefaultImports": true,
+      "lib": ["DOM", "ESNext"],
+      "moduleResolution": "node",
+      "noEmit": true,
+      "skipLibCheck": true,
+      "resolveJsonModule": true,
+      "isolatedModules": true
+    }
+}
